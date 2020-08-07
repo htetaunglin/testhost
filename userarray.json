@@ -6,6 +6,14 @@
 			"images":[
 				"This is image 1",
 				"This is image 2"
+			],
+			"degree":[
+				{
+					"name":"A.B.C"
+				},
+				{
+					"name":"A.B.C"
+				}
 			]
 		},
 		{
@@ -14,6 +22,14 @@
 			"images":[
 				"This is image 1",
 				"This is image 2"
+			],
+			"degree":[
+				{
+					"name":"A.B.C"
+				},
+				{
+					"name":"A.B.C"
+				}
 			]
 		}
 	]
